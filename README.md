@@ -1,11 +1,11 @@
 # UFOs
 
-## Overview of Project: Explain the purpose of this analysis.
+## Overview of Project
 
 The purpose of this analysis is to easily access the data related to sighting of UFOs in one space. Dana has a Java script file holding the data for UFO sighting information.  We will be using JavaScript to display the information as a table for users to access freely and easily. 
 
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Results
 
 We built a table to neatly display and hold data we wanted to use. We also added filter to allow users to refine their search to specific dates, cities, states, countries, shapes, duration of sighting, and comments made by the witnesses. The table was inserted into and visually displayed in an HTML page. We used basic HTML, Bootstrap and css to build and style the page. There is also a summer on the page to inform users of the page’s details. 
 
@@ -16,7 +16,7 @@ We built a table to neatly display and hold data we wanted to use. We also added
 ![Screenshot 2022-03-06 144527](https://user-images.githubusercontent.com/93060074/156939538-d211dd4f-1780-482f-87b4-0d7f69fa9938.png)
 
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary
 
 In summary our filter and table came out perfect. It is easy to use and allows you to search for specific data at the user’s request. The filter lets users search with ease and the table is very easy to read.
 One recommendation I’d make is having a section to display videos and or photo’s taken by people who have seen the UFOs. I’D also recommend a section where new users could submit their sighting information. That way the data can stay current.
